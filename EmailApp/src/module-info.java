@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author den
+ *
+ */
+module EmailApp {
+}
